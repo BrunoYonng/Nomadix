@@ -1,6 +1,6 @@
 """
 Nomadix - Versão Simplificada para Demonstração
-Sistema de Insights para Planejamento Turístico em Angola
+Sistema de Insights para Planejamento Turístico em Angola -  Lili
 """
 
 import sys
